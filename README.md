@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RayyanHai
-- 👀 I’m interested in ... Football, video games, coding, and working out.  
-- 🌱 I’m currently learning ... Python
-- 📫 How to reach me ... @rayyanhai on most platforms!
+- 🤘 I am a freshman studying Computer Science at the University of Texas at Austin
+- 📫 https://www.linkedin.com/in/rayyanhai/
 
 <!---
 RayyanHai/RayyanHai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
