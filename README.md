@@ -1,6 +1,6 @@
-Currently pursuing a Bachelor of Science in Computer Science @ UT Austin
+Hi! I'm Rayyan and I'm currently a Computer Science student @ The University of Texas at Austin
 
-Interested in full-stack development, AI/ML, and product management.
+I'm interested in full-stack development, AI/ML, and product management.
 
 Feel free to connect with me at https://linkedin.com/in/rayyanhai
 Or Email me at rayyanhaider@utexas.edu
